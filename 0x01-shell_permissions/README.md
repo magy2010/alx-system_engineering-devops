@@ -1,1 +1,1 @@
-comand su to switch users
+./1-who_am_i show user name
